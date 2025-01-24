@@ -69,3 +69,17 @@ Use Case: Evaluate regional growth trends and track progress towards targets.
 
 #Output
 
+![Image](https://github.com/user-attachments/assets/9a76815f-3bd2-4e2e-8570-e5a0ed959560)
+
+![Image](https://github.com/user-attachments/assets/d818b8f1-2d23-4a92-8ec2-7edecfc1ba9a)
+
+![Image](https://github.com/user-attachments/assets/f06030b2-75d8-4e7c-831d-69df3c0c53f9)
+
+![Image](https://github.com/user-attachments/assets/c0f60765-f893-4857-8ac5-89d00d36b8e3)
+
+![Image](https://github.com/user-attachments/assets/566efe30-31f7-46d2-bded-e2ec0d852675)
+
+![Image](https://github.com/user-attachments/assets/8aca3914-aba4-46af-bc65-89c51766d452)
+
+![Image](https://github.com/user-attachments/assets/9b52202c-ff56-48a5-a681-a49ac591e321)
+
